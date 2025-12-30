@@ -13,8 +13,8 @@ Multi-threaded Performance: Indexing and searching operations run in separate th
 ## 📸 Screenshot
 <img width="894" height="693" alt="Screenshot 2025-10-18 060440" src="https://github.com/user-attachments/assets/24346f23-096c-41a0-8f50-2f4775a8170a" />
 ---
-## 📝 Changelog v2.2.0
-- Update Framework
+## 📝 Changelog v2.3.0
+- Update Library
 
 ---
 ## 🚀 Usage
