@@ -98,13 +98,13 @@ Designed with a **multi-threaded** architecture and an enterprise-grade **dark-m
     </td>
     <td align="center">
       <img src="screenshots/2.png" alt="Statistic Dashboard" width="100%"/>
-      <br/><sub><b>Search Results</b></sub>
+      <br/><sub><b>Statistic Dashboard</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="screenshots/3.png" alt="History" width="100%"/>
-      <br/><sub><b>Statistics Dashboard</b></sub>
+      <br/><sub><b>History</b></sub>
     </td>
     <td align="center">
       <img src="screenshots/4.png" alt="Duplicate Finder" width="100%"/>
