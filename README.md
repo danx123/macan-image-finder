@@ -17,12 +17,12 @@
 [![PySide6](https://img.shields.io/badge/PySide6-Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#license)
-[![Version](https://img.shields.io/badge/Version-5.0.0-blue?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/Version-6.0.0-blue?style=for-the-badge)](#)
 
 <br/>
 
 > ⚠️ **Notice:** The source code available in this repository is the **base/basic project version** provided for reference purposes only.
-> The **latest release (v5)** with full enterprise features is not publicly distributed.
+> The **latest release (v6)** with full enterprise features is not publicly distributed.
 
 <br/>
 
@@ -319,7 +319,7 @@ All parameters are configurable via the **Settings panel** (`Ctrl + ,`) or by ed
 
 > The source code available in this repository represents the **base/basic version** of Macan Image Finder, shared for public reference and learning purposes.
 >
-> The **latest release (v5)** — which includes advanced duplicate detection, a batch export pipeline, enhanced UI components, and additional enterprise-grade features — **is not publicly distributed** and is reserved for internal and commercial use.
+> The **latest release (v6)** — which includes advanced duplicate detection, a batch export pipeline, enhanced UI components, and additional enterprise-grade features — **is not publicly distributed** and is reserved for internal and commercial use.
 >
 > For licensing inquiries, please open an issue via [GitHub Issues](https://github.com/danx123/macan-image-finder/issues).
 
