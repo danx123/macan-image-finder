@@ -17,7 +17,7 @@
 [![PySide6](https://img.shields.io/badge/PySide6-Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#license)
-[![Version](https://img.shields.io/badge/Version-6.0.0-blue?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/Version-6.2.0-blue?style=for-the-badge)](#)
 
 <br/>
 
